@@ -1,0 +1,17 @@
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\bin\Debug\net6.0\Service.deps.json
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\bin\Debug\net6.0\Service.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\bin\Debug\net6.0\Service.pdb
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\bin\Debug\net6.0\Data.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\bin\Debug\net6.0\Model.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\bin\Debug\net6.0\Data.pdb
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\bin\Debug\net6.0\Model.pdb
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\refint\Service.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\Service.pdb
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Service\obj\Debug\net6.0\ref\Service.dll

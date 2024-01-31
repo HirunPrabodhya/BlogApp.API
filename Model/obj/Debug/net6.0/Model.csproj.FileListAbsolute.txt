@@ -1,0 +1,12 @@
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\bin\Debug\net6.0\Model.deps.json
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\bin\Debug\net6.0\Model.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\bin\Debug\net6.0\Model.pdb
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\Model.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\refint\Model.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\Model.pdb
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\ref\Model.dll
+E:\Practical\ASP web api wth angular\MyBlogApp\BackEnd(Server)\PostAPI\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
